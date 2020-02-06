@@ -24,6 +24,7 @@ namespace SteamStatsDevioWPF
         {
             InitializeComponent();
             string abc = "test";
+            string d = "lolo";
         }
     }
 }
