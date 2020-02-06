@@ -23,6 +23,7 @@ namespace SteamStatsDevioWPF
         public MainWindow()
         {
             InitializeComponent();
+            string abc = "test";
         }
     }
 }
